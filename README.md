@@ -1,7 +1,3 @@
-<div align="center">
-    <dotlottie-player src="https://lottie.host/b27d63ac-ade6-47d1-8951-57f27c25b631/Jk3tL2gZC7.json"
-        background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
-</div>
 <h1 align="center">Hi 👋, I'm Paulo Sérgio</h1>
 <h3 align="center">A Dev on a Journey to Mastery</h3>
 
@@ -70,4 +66,3 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" /> </a> </p>
-            <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script>

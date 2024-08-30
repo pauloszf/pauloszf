@@ -1,6 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
 <h1 align="center">Hi 👋, I'm Paulo Sérgio</h1>
 <h3 align="center">A Dev on a Journey to Mastery</h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloszf&label=Profile%20views&color=0e75b6&style=flat"
         alt="pauloszf" /> </p>
